@@ -1,0 +1,1 @@
+console.log("Hello World! Life, The Universe and Everything!");
